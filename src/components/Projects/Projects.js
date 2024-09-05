@@ -25,8 +25,9 @@ function Projects() {
               imgPath={daresni}
               isBlog={false}
               title="Daresni"
-              description="The project DARESNI is an online learning platform dedicated to supplementary lessons by providing an online space where teachers and students (middle and high school)."
-              demoLink="https://chatify-49.web.app/"
+              description="Daresni is a platform for managing online extra courses and language learning.
+              As a member of the multidisciplinary Daresni project team, I developed frontend services using Next.js and backend services using Spring Boot. The platform was built with a microservices architecture using Kafka and REST APIs for communication. I was also responsible for the backend of the payment service, utilizing MongoDB for database management. "
+             /* demoLink="https://chatify-49.web.app/"*/
             />
           </Col>
 
@@ -35,9 +36,10 @@ function Projects() {
               imgPath={student_valley}
               isBlog={false}
               title="Student Valley"
-              description="The project Student Valley  involves implementing a platform for project management called  « un diplôme-une startup/ un diplôme - un brevet » "
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              description="The project Student Valley  involves implementing a platform for project management called  « un diplôme-une startup/ un diplôme - un brevet »
+             - Member of the front-end team, using React.js. "
+              /*ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
+              demoLink="https://blogs.soumya-jit.tech/"*/
             />
           </Col>
 
