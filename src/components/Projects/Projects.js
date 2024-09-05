@@ -26,7 +26,7 @@ function Projects() {
               isBlog={false}
               title="Daresni"
               description="Daresni is a platform for managing online extra courses and language learning.
-              As a member of the multidisciplinary Daresni project team, I developed frontend services using Next.js and backend services using Spring Boot. The platform was built with a microservices architecture using Kafka and REST APIs for communication. I was also responsible for the backend of the payment service, utilizing MongoDB for database management. "
+              As a member of the multidisciplinary Daresni project team, I developed some frontend services (using Next.js) and backend services (the payment micro-service) using Spring Boot and MongoDB for database management.The platform was built with a microservices architecture using Kafka and REST APIs for communication. "
              /* demoLink="https://chatify-49.web.app/"*/
             />
           </Col>
